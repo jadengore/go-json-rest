@@ -101,6 +101,7 @@ Third Party Middlewares:
 | **[JWT](https://github.com/StephanDollberg/go-json-rest-middleware-jwt)** | Provides authentication via Json Web Tokens |
 | **[AuthToken](https://github.com/grayj/go-json-rest-middleware-tokenauth)** | Provides a Token Auth implementation |
 | **[SecureRedirect](https://github.com/clyphub/go-json-rest-middleware)** | Redirect clients from HTTP to HTTPS |
+| **[ForceSSL](https://github.com/jadengore/go-json-rest-middleware-force-ssl)** | Force clients to use HTTPS |
 
 *If you have a Go-Json-Rest compatible middleware, feel free to submit a PR to add it in this list, and in the examples.*
 
